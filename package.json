@@ -1,0 +1,8 @@
+{
+  "name": "example",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "nodemon": "^1.19.1"
+  } 
+}
