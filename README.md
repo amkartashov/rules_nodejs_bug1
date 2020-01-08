@@ -1,6 +1,6 @@
 To reproduce:
 
-    $ sudo docker run -ti --entrypoint /bin/bash l.gcr.io/google/bazel:0.28.0 -c "git clone https://github.com/gorilych/rules_nodejs_bug1.git; cd rules_nodejs_bug1; bazel run @nodejs//:yarn"
+    $ sudo docker run -ti --entrypoint /bin/bash l.gcr.io/google/bazel:1.2.1 -c "git clone https://github.com/gorilych/rules_nodejs_bug1.git; cd rules_nodejs_bug1; bazel run @nodejs//:yarn"
 
 Example:
 
