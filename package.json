@@ -2,7 +2,7 @@
   "name": "example",
   "license": "UNLICENSED",
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "nodemon": "^1.19.1"
   } 
 }
